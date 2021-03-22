@@ -8,7 +8,7 @@
 
 ❗️Local Environment (Jupyter Notebook) 가 아닌  `Google Colab` 을 이용해주세요. ( 미리 설치하실 것은 따로 없으며, Assignment 절차를 따라주시면 됩니다. )
 
-![image-20210321195408910](/Users/JungHyunLah/Library/Application Support/typora-user-images/image-20210321195408910.png)
+<img width="848" alt="Screenshot 2021-03-21 at 19 53 57" src="https://user-images.githubusercontent.com/49134038/111903237-9086c680-8a84-11eb-8652-19a7668d106a.png">
 
 * 1주차 과제 시 업로드 했던 구글 드라이브의 assignment1을 이용합니다.
 
