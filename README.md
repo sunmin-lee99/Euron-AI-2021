@@ -38,5 +38,5 @@
 
 * https://github.com/deeplearningzerotoall
 
-  * `lab-02` ~ `lab-06` 을 진행해주세요.
+  * `lab-02` ~ `lab-05` 을 진행해주세요.
 
